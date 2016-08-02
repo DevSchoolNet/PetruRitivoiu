@@ -1,0 +1,6 @@
+c:\users\thinkpad-e560\documents\visual studio 2015\Projects\ing_tema1_3\ing_tema1_3\bin\Debug\ing_tema1_3.exe.config
+c:\users\thinkpad-e560\documents\visual studio 2015\Projects\ing_tema1_3\ing_tema1_3\bin\Debug\ing_tema1_3.exe
+c:\users\thinkpad-e560\documents\visual studio 2015\Projects\ing_tema1_3\ing_tema1_3\bin\Debug\ing_tema1_3.pdb
+c:\users\thinkpad-e560\documents\visual studio 2015\Projects\ing_tema1_3\ing_tema1_3\obj\Debug\ing_tema1_3.csprojResolveAssemblyReference.cache
+c:\users\thinkpad-e560\documents\visual studio 2015\Projects\ing_tema1_3\ing_tema1_3\obj\Debug\ing_tema1_3.exe
+c:\users\thinkpad-e560\documents\visual studio 2015\Projects\ing_tema1_3\ing_tema1_3\obj\Debug\ing_tema1_3.pdb
